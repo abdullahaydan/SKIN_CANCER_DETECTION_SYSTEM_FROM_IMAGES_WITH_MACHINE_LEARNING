@@ -1,0 +1,1 @@
+verisetindeki görüntülerin kaydedileceği klasör
